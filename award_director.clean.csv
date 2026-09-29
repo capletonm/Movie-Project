@@ -1,0 +1,98 @@
+award_id,director_id,movie_id,year_ceremony,ceremony,category,name_nominee,film_title
+1,,,1928,1,DIRECTING (Comedy Picture),Lewis Milestone,Two Arabian Knights
+2,,,1928,1,DIRECTING (Dramatic Picture),Frank Borzage,7th Heaven
+3,,,1929,2,DIRECTING,Frank Lloyd,The Divine Lady
+4,,,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front
+5,,,1931,4,DIRECTING,Norman Taurog,Skippy
+6,,,1932,5,DIRECTING,Frank Borzage,Bad Girl
+7,,,1933,6,DIRECTING,Frank Lloyd,Cavalcade
+8,,,1935,7,DIRECTING,Frank Capra,It Happened One Night
+9,,,1936,8,DIRECTING,John Ford,The Informer
+10,,,1937,9,DIRECTING,Frank Capra,Mr. Deeds Goes to Town
+11,,,1938,10,DIRECTING,Leo McCarey,The Awful Truth
+12,,,1939,11,DIRECTING,Frank Capra,You Can't Take It with You
+13,,,1940,12,DIRECTING,Victor Fleming,Gone with the Wind
+14,,,1941,13,DIRECTING,John Ford,The Grapes of Wrath
+15,,,1942,14,DIRECTING,John Ford,How Green Was My Valley
+16,,,1943,15,DIRECTING,William Wyler,Mrs. Miniver
+17,,,1944,16,DIRECTING,Michael Curtiz,Casablanca
+18,,,1945,17,DIRECTING,Leo McCarey,Going My Way
+19,,,1946,18,DIRECTING,Billy Wilder,The Lost Weekend
+20,,,1947,19,DIRECTING,William Wyler,The Best Years of Our Lives
+21,,,1948,20,DIRECTING,Elia Kazan,Gentleman's Agreement
+22,,,1949,21,DIRECTING,John Huston,The Treasure of the Sierra Madre
+23,,,1950,22,DIRECTING,Joseph L. Mankiewicz,A Letter to Three Wives
+24,,,1951,23,DIRECTING,Joseph L. Mankiewicz,All about Eve
+25,,,1952,24,DIRECTING,George Stevens,A Place in the Sun
+26,,,1953,25,DIRECTING,John Ford,The Quiet Man
+27,,,1954,26,DIRECTING,Fred Zinnemann,From Here to Eternity
+28,,,1955,27,DIRECTING,Elia Kazan,On the Waterfront
+29,,,1956,28,DIRECTING,Delbert Mann,Marty
+30,,,1957,29,DIRECTING,George Stevens,Giant
+31,,,1958,30,DIRECTING,David Lean,The Bridge on the River Kwai
+32,,,1959,31,DIRECTING,Vincente Minnelli,Gigi
+33,,,1960,32,DIRECTING,William Wyler,Ben-Hur
+34,,,1961,33,DIRECTING,Billy Wilder,The Apartment
+35,,,1962,34,DIRECTING,"Robert Wise, Jerome Robbins",West Side Story
+36,,,1963,35,DIRECTING,David Lean,Lawrence of Arabia
+37,,,1964,36,DIRECTING,Tony Richardson,Tom Jones
+38,,,1965,37,DIRECTING,George Cukor,My Fair Lady
+39,,,1966,38,DIRECTING,Robert Wise,The Sound of Music
+40,,,1967,39,DIRECTING,Fred Zinnemann,A Man for All Seasons
+41,,,1968,40,DIRECTING,Mike Nichols,The Graduate
+42,,,1969,41,DIRECTING,Carol Reed,Oliver!
+43,,,1970,42,DIRECTING,John Schlesinger,Midnight Cowboy
+44,,,1971,43,DIRECTING,Franklin J. Schaffner,Patton
+45,,,1972,44,DIRECTING,William Friedkin,The French Connection
+46,,,1973,45,DIRECTING,Bob Fosse,Cabaret
+47,,,1974,46,DIRECTING,George Roy Hill,The Sting
+48,,,1975,47,DIRECTING,Francis Ford Coppola,The Godfather Part II
+49,,,1976,48,DIRECTING,Milos Forman,One Flew over the Cuckoo's Nest
+50,,,1977,49,DIRECTING,John G. Avildsen,Rocky
+51,,,1978,50,DIRECTING,Woody Allen,Annie Hall
+52,,,1979,51,DIRECTING,Michael Cimino,The Deer Hunter
+53,,,1980,52,DIRECTING,Robert Benton,Kramer vs. Kramer
+54,,,1981,53,DIRECTING,Robert Redford,Ordinary People
+55,,,1982,54,DIRECTING,Warren Beatty,Reds
+56,,,1983,55,DIRECTING,Richard Attenborough,Gandhi
+57,,,1984,56,DIRECTING,James L. Brooks,Terms of Endearment
+58,,,1985,57,DIRECTING,Milos Forman,Amadeus
+59,,,1986,58,DIRECTING,Sydney Pollack,Out of Africa
+60,,,1987,59,DIRECTING,Oliver Stone,Platoon
+61,,,1988,60,DIRECTING,Bernardo Bertolucci,The Last Emperor
+62,,,1989,61,DIRECTING,Barry Levinson,Rain Man
+63,,,1990,62,DIRECTING,Oliver Stone,Born on the Fourth of July
+64,,,1991,63,DIRECTING,Kevin Costner,Dances With Wolves
+65,,,1992,64,DIRECTING,Jonathan Demme,The Silence of the Lambs
+66,,,1993,65,DIRECTING,Clint Eastwood,Unforgiven
+67,,,1994,66,DIRECTING,Steven Spielberg,Schindler's List
+68,,,1995,67,DIRECTING,Robert Zemeckis,Forrest Gump
+69,,,1996,68,DIRECTING,Mel Gibson,Braveheart
+70,,,1997,69,DIRECTING,Anthony Minghella,The English Patient
+71,,,1998,70,DIRECTING,James Cameron,Titanic
+72,,,1999,71,DIRECTING,Steven Spielberg,Saving Private Ryan
+73,,,2000,72,DIRECTING,Sam Mendes,American Beauty
+74,,,2001,73,DIRECTING,Steven Soderbergh,Traffic
+75,,,2002,74,DIRECTING,Ron Howard,A Beautiful Mind
+76,,,2003,75,DIRECTING,Roman Polanski,The Pianist
+77,,,2004,76,DIRECTING,Peter Jackson,The Lord of the Rings: The Return of the King
+78,,,2005,77,DIRECTING,Clint Eastwood,Million Dollar Baby
+79,,,2006,78,DIRECTING,Ang Lee,Brokeback Mountain
+80,,,2007,79,DIRECTING,Martin Scorsese,The Departed
+81,,,2008,80,DIRECTING,Joel Coen and Ethan Coen,No Country for Old Men
+82,,,2009,81,DIRECTING,Danny Boyle,Slumdog Millionaire
+83,,,2010,82,DIRECTING,Kathryn Bigelow,The Hurt Locker
+84,,,2011,83,DIRECTING,Tom Hooper,The King's Speech
+85,,,2012,84,DIRECTING,Michel Hazanavicius,The Artist
+86,,,2013,85,DIRECTING,Ang Lee,Life of Pi
+87,,,2014,86,DIRECTING,Alfonso Cuarón,Gravity
+88,,,2015,87,DIRECTING,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance)
+89,,,2016,88,DIRECTING,Alejandro G. Iñárritu,The Revenant
+90,,,2017,89,DIRECTING,Damien Chazelle,La La Land
+91,,,2018,90,DIRECTING,Guillermo del Toro,The Shape of Water
+92,,,2019,91,DIRECTING,Alfonso Cuarón,Roma
+93,,,2020,92,DIRECTING,Bong Joon Ho,Parasite
+94,,,2021,93,DIRECTING,Chloé Zhao,Nomadland
+95,,,2022,94,DIRECTING,Jane Campion,The Power of the Dog
+96,,,2023,95,DIRECTING,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once
+97,,,2024,96,DIRECTING,Christopher Nolan,Oppenheimer
