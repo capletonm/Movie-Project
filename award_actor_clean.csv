@@ -1,0 +1,371 @@
+actor_award_id,actor_id,movie_id,year_ceremony,ceremony,category,name_nominee,film_title,film_title_clean,match_key
+1,,,1928,1,ACTOR,Emil Jannings,The Last Command,the last command,the last command_1927
+2,,,1928,1,ACTRESS,Janet Gaynor,7th Heaven,7th heaven,7th heaven_1927
+3,,,1929,2,ACTOR,Warner Baxter,In Old Arizona,in old arizona,in old arizona_1928
+4,,,1929,2,ACTRESS,Mary Pickford,Coquette,coquette,coquette_1928
+5,,,1930,3,ACTOR,George Arliss,Disraeli,disraeli,disraeli_1929
+6,,,1930,3,ACTRESS,Norma Shearer,The Divorcee,the divorcee,the divorcee_1929
+7,,,1931,4,ACTOR,Lionel Barrymore,A Free Soul,a free soul,a free soul_1930
+8,,,1931,4,ACTRESS,Marie Dressler,Min and Bill,min and bill,min and bill_1930
+9,,,1932,5,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,dr jekyll and mr hyde,dr jekyll and mr hyde_1931
+10,,,1932,5,ACTOR,Wallace Beery,The Champ,the champ,the champ_1931
+11,,,1932,5,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,the sin of madelon claudet,the sin of madelon claudet_1931
+12,,,1933,6,ACTOR,Charles Laughton,The Private Life of Henry VIII,the private life of henry viii,the private life of henry viii_1932
+13,,,1933,6,ACTRESS,Katharine Hepburn,Morning Glory,morning glory,morning glory_1932
+14,,,1935,7,ACTOR,Clark Gable,It Happened One Night,it happened one night,it happened one night_1934
+15,,,1935,7,ACTRESS,Claudette Colbert,It Happened One Night,it happened one night,it happened one night_1934
+16,,,1936,8,ACTOR,Victor McLaglen,The Informer,the informer,the informer_1935
+17,,,1936,8,ACTRESS,Bette Davis,Dangerous,dangerous,dangerous_1935
+18,,,1937,9,ACTOR,Paul Muni,The Story of Louis Pasteur,the story of louis pasteur,the story of louis pasteur_1936
+19,,,1937,9,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Come and Get It,come and get it,come and get it_1936
+20,,,1937,9,ACTRESS,Luise Rainer,The Great Ziegfeld,the great ziegfeld,the great ziegfeld_1936
+21,,,1937,9,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anthony Adverse,anthony adverse,anthony adverse_1936
+22,,,1938,10,ACTOR,Spencer Tracy,Captains Courageous,captains courageous,captains courageous_1937
+23,,,1938,10,ACTOR IN A SUPPORTING ROLE,Joseph Schildkraut,The Life of Emile Zola,the life of emile zola,the life of emile zola_1937
+24,,,1938,10,ACTRESS,Luise Rainer,The Good Earth,the good earth,the good earth_1937
+25,,,1938,10,ACTRESS IN A SUPPORTING ROLE,Alice Brady,In Old Chicago,in old chicago,in old chicago_1937
+26,,,1939,11,ACTOR,Spencer Tracy,Boys Town,boys town,boys town_1938
+27,,,1939,11,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Kentucky,kentucky,kentucky_1938
+28,,,1939,11,ACTRESS,Bette Davis,Jezebel,jezebel,jezebel_1938
+29,,,1939,11,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,Jezebel,jezebel,jezebel_1938
+30,,,1940,12,ACTOR,Robert Donat,"Goodbye, Mr. Chips","goodbye, mr chips","goodbye, mr chips_1939"
+31,,,1940,12,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,Stagecoach,stagecoach,stagecoach_1939
+32,,,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind,gone with the wind,gone with the wind_1939
+33,,,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,gone with the wind,gone with the wind_1939
+34,,,1941,13,ACTOR,James Stewart,The Philadelphia Story,the philadelphia story,the philadelphia story_1940
+35,,,1941,13,ACTOR IN A SUPPORTING ROLE,Walter Brennan,The Westerner,the westerner,the westerner_1940
+36,,,1941,13,ACTRESS,Ginger Rogers,Kitty Foyle,kitty foyle,kitty foyle_1940
+37,,,1941,13,ACTRESS IN A SUPPORTING ROLE,Jane Darwell,The Grapes of Wrath,the grapes of wrath,the grapes of wrath_1940
+38,,,1942,14,ACTOR,Gary Cooper,Sergeant York,sergeant york,sergeant york_1941
+39,,,1942,14,ACTOR IN A SUPPORTING ROLE,Donald Crisp,How Green Was My Valley,how green was my valley,how green was my valley_1941
+40,,,1942,14,ACTRESS,Joan Fontaine,Suspicion,suspicion,suspicion_1941
+41,,,1942,14,ACTRESS IN A SUPPORTING ROLE,Mary Astor,The Great Lie,the great lie,the great lie_1941
+42,,,1943,15,ACTOR,James Cagney,Yankee Doodle Dandy,yankee doodle dandy,yankee doodle dandy_1942
+43,,,1943,15,ACTOR IN A SUPPORTING ROLE,Van Heflin,Johnny Eager,johnny eager,johnny eager_1942
+44,,,1943,15,ACTRESS,Greer Garson,Mrs. Miniver,mrs miniver,mrs miniver_1942
+45,,,1943,15,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,Mrs. Miniver,mrs miniver,mrs miniver_1942
+46,,,1944,16,ACTOR,Paul Lukas,Watch on the Rhine,watch on the rhine,watch on the rhine_1943
+47,,,1944,16,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The More the Merrier,the more the merrier,the more the merrier_1943
+48,,,1944,16,ACTRESS,Jennifer Jones,The Song of Bernadette,the song of bernadette,the song of bernadette_1943
+49,,,1944,16,ACTRESS IN A SUPPORTING ROLE,Katina Paxinou,For Whom the Bell Tolls,for whom the bell tolls,for whom the bell tolls_1943
+50,,,1945,17,ACTOR,Bing Crosby,Going My Way,going my way,going my way_1944
+51,,,1945,17,ACTOR IN A SUPPORTING ROLE,Barry Fitzgerald,Going My Way,going my way,going my way_1944
+52,,,1945,17,ACTRESS,Ingrid Bergman,Gaslight,gaslight,gaslight_1944
+53,,,1945,17,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,None but the Lonely Heart,none but the lonely heart,none but the lonely heart_1944
+54,,,1946,18,ACTOR,Ray Milland,The Lost Weekend,the lost weekend,the lost weekend_1945
+55,,,1946,18,ACTOR IN A SUPPORTING ROLE,James Dunn,A Tree Grows in Brooklyn,a tree grows in brooklyn,a tree grows in brooklyn_1945
+56,,,1946,18,ACTRESS,Joan Crawford,Mildred Pierce,mildred pierce,mildred pierce_1945
+57,,,1946,18,ACTRESS IN A SUPPORTING ROLE,Anne Revere,National Velvet,national velvet,national velvet_1945
+58,,,1947,19,ACTOR,Fredric March,The Best Years of Our Lives,the best years of our lives,the best years of our lives_1946
+59,,,1947,19,ACTOR IN A SUPPORTING ROLE,Harold Russell,The Best Years of Our Lives,the best years of our lives,the best years of our lives_1946
+60,,,1947,19,ACTRESS,Olivia de Havilland,To Each His Own,to each his own,to each his own_1946
+61,,,1947,19,ACTRESS IN A SUPPORTING ROLE,Anne Baxter,The Razor's Edge,the razor's edge,the razor's edge_1946
+62,,,1948,20,ACTOR,Ronald Colman,A Double Life,a double life,a double life_1947
+63,,,1948,20,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Miracle on 34th Street,miracle on 34th street,miracle on 34th street_1947
+64,,,1948,20,ACTRESS,Loretta Young,The Farmer's Daughter,the farmer's daughter,the farmer's daughter_1947
+65,,,1948,20,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Gentleman's Agreement,gentleman's agreement,gentleman's agreement_1947
+66,,,1949,21,ACTOR,Laurence Olivier,Hamlet,hamlet,hamlet_1948
+67,,,1949,21,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,the treasure of the sierra madre,the treasure of the sierra madre_1948
+68,,,1949,21,ACTRESS,Jane Wyman,Johnny Belinda,johnny belinda,johnny belinda_1948
+69,,,1949,21,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,key largo,key largo_1948
+70,,,1950,22,ACTOR,Broderick Crawford,All the King's Men,all the king's men,all the king's men_1949
+71,,,1950,22,ACTOR IN A SUPPORTING ROLE,Dean Jagger,Twelve O'Clock High,twelve o'clock high,twelve o'clock high_1949
+72,,,1950,22,ACTRESS,Olivia de Havilland,The Heiress,the heiress,the heiress_1949
+73,,,1950,22,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,All the King's Men,all the king's men,all the king's men_1949
+74,,,1951,23,ACTOR,José Ferrer,Cyrano de Bergerac,cyrano de bergerac,cyrano de bergerac_1950
+75,,,1951,23,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve,all about eve,all about eve_1950
+76,,,1951,23,ACTRESS,Judy Holliday,Born Yesterday,born yesterday,born yesterday_1950
+77,,,1951,23,ACTRESS IN A SUPPORTING ROLE,Josephine Hull,Harvey,harvey,harvey_1950
+78,,,1952,24,ACTOR,Humphrey Bogart,The African Queen,the african queen,the african queen_1951
+79,,,1952,24,ACTOR IN A SUPPORTING ROLE,Karl Malden,A Streetcar Named Desire,a streetcar named desire,a streetcar named desire_1951
+80,,,1952,24,ACTRESS,Vivien Leigh,A Streetcar Named Desire,a streetcar named desire,a streetcar named desire_1951
+81,,,1952,24,ACTRESS IN A SUPPORTING ROLE,Kim Hunter,A Streetcar Named Desire,a streetcar named desire,a streetcar named desire_1951
+82,,,1953,25,ACTOR,Gary Cooper,High Noon,high noon,high noon_1952
+83,,,1953,25,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Viva Zapata!,viva zapata!,viva zapata!_1952
+84,,,1953,25,ACTRESS,Shirley Booth,"Come Back, Little Sheba","come back, little sheba","come back, little sheba_1952"
+85,,,1953,25,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,The Bad and the Beautiful,the bad and the beautiful,the bad and the beautiful_1952
+86,,,1954,26,ACTOR,William Holden,Stalag 17,stalag 17,stalag 17_1953
+87,,,1954,26,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,From Here to Eternity,from here to eternity,from here to eternity_1953
+88,,,1954,26,ACTRESS,Audrey Hepburn,Roman Holiday,roman holiday,roman holiday_1953
+89,,,1954,26,ACTRESS IN A SUPPORTING ROLE,Donna Reed,From Here to Eternity,from here to eternity,from here to eternity_1953
+90,,,1955,27,ACTOR,Marlon Brando,On the Waterfront,on the waterfront,on the waterfront_1954
+91,,,1955,27,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,The Barefoot Contessa,the barefoot contessa,the barefoot contessa_1954
+92,,,1955,27,ACTRESS,Grace Kelly,The Country Girl,the country girl,the country girl_1954
+93,,,1955,27,ACTRESS IN A SUPPORTING ROLE,Eva Marie Saint,On the Waterfront,on the waterfront,on the waterfront_1954
+94,,,1956,28,ACTOR,Ernest Borgnine,Marty,marty,marty_1955
+95,,,1956,28,ACTOR IN A SUPPORTING ROLE,Jack Lemmon,Mister Roberts,mister roberts,mister roberts_1955
+96,,,1956,28,ACTRESS,Anna Magnani,The Rose Tattoo,the rose tattoo,the rose tattoo_1955
+97,,,1956,28,ACTRESS IN A SUPPORTING ROLE,Jo Van Fleet,East of Eden,east of eden,east of eden_1955
+98,,,1957,29,ACTOR,Yul Brynner,The King and I,the king and i,the king and i_1956
+99,,,1957,29,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Lust for Life,lust for life,lust for life_1956
+100,,,1957,29,ACTRESS,Ingrid Bergman,Anastasia,anastasia,anastasia_1956
+101,,,1957,29,ACTRESS IN A SUPPORTING ROLE,Dorothy Malone,Written on the Wind,written on the wind,written on the wind_1956
+102,,,1958,30,ACTOR,Alec Guinness,The Bridge on the River Kwai,the bridge on the river kwai,the bridge on the river kwai_1957
+103,,,1958,30,ACTOR IN A SUPPORTING ROLE,Red Buttons,Sayonara,sayonara,sayonara_1957
+104,,,1958,30,ACTRESS,Joanne Woodward,The Three Faces of Eve,the three faces of eve,the three faces of eve_1957
+105,,,1958,30,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,Sayonara,sayonara,sayonara_1957
+106,,,1959,31,ACTOR,David Niven,Separate Tables,separate tables,separate tables_1958
+107,,,1959,31,ACTOR IN A SUPPORTING ROLE,Burl Ives,The Big Country,the big country,the big country_1958
+108,,,1959,31,ACTRESS,Susan Hayward,I Want to Live!,i want to live!,i want to live!_1958
+109,,,1959,31,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,Separate Tables,separate tables,separate tables_1958
+110,,,1960,32,ACTOR,Charlton Heston,Ben-Hur,ben hur,ben hur_1959
+111,,,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,ben hur,ben hur_1959
+112,,,1960,32,ACTRESS,Simone Signoret,Room at the Top,room at the top,room at the top_1959
+113,,,1960,32,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Diary of Anne Frank,the diary of anne frank,the diary of anne frank_1959
+114,,,1961,33,ACTOR,Burt Lancaster,Elmer Gantry,elmer gantry,elmer gantry_1960
+115,,,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Spartacus,spartacus,spartacus_1960
+116,,,1961,33,ACTRESS,Elizabeth Taylor,Butterfield 8,butterfield 8,butterfield 8_1960
+117,,,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Jones,Elmer Gantry,elmer gantry,elmer gantry_1960
+118,,,1962,34,ACTOR,Maximilian Schell,Judgment at Nuremberg,judgment at nuremberg,judgment at nuremberg_1961
+119,,,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,west side story,west side story_1961
+120,,,1962,34,ACTRESS,Sophia Loren,Two Women,two women,two women_1961
+121,,,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,west side story,west side story_1961
+122,,,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,to kill a mockingbird,to kill a mockingbird_1962
+123,,,1963,35,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,sweet bird of youth,sweet bird of youth_1962
+124,,,1963,35,ACTRESS,Anne Bancroft,The Miracle Worker,the miracle worker,the miracle worker_1962
+125,,,1963,35,ACTRESS IN A SUPPORTING ROLE,Patty Duke,The Miracle Worker,the miracle worker,the miracle worker_1962
+126,,,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,lilies of the field,lilies of the field_1963
+127,,,1964,36,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Hud,hud,hud_1963
+128,,,1964,36,ACTRESS,Patricia Neal,Hud,hud,hud_1963
+129,,,1964,36,ACTRESS IN A SUPPORTING ROLE,Margaret Rutherford,The V.I.P.s,the vips,the vips_1963
+130,,,1965,37,ACTOR,Rex Harrison,My Fair Lady,my fair lady,my fair lady_1964
+131,,,1965,37,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Topkapi,topkapi,topkapi_1964
+132,,,1965,37,ACTRESS,Julie Andrews,Mary Poppins,mary poppins,mary poppins_1964
+133,,,1965,37,ACTRESS IN A SUPPORTING ROLE,Lila Kedrova,Zorba the Greek,zorba the greek,zorba the greek_1964
+134,,,1966,38,ACTOR,Lee Marvin,Cat Ballou,cat ballou,cat ballou_1965
+135,,,1966,38,ACTOR IN A SUPPORTING ROLE,Martin Balsam,A Thousand Clowns,a thousand clowns,a thousand clowns_1965
+136,,,1966,38,ACTRESS,Julie Christie,Darling,darling,darling_1965
+137,,,1966,38,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,A Patch of Blue,a patch of blue,a patch of blue_1965
+138,,,1967,39,ACTOR,Paul Scofield,A Man for All Seasons,a man for all seasons,a man for all seasons_1966
+139,,,1967,39,ACTOR IN A SUPPORTING ROLE,Walter Matthau,The Fortune Cookie,the fortune cookie,the fortune cookie_1966
+140,,,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,who's afraid of virginia woolf?,who's afraid of virginia woolf?_1966
+141,,,1967,39,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf?,who's afraid of virginia woolf?,who's afraid of virginia woolf?_1966
+142,,,1968,40,ACTOR,Rod Steiger,In the Heat of the Night,in the heat of the night,in the heat of the night_1967
+143,,,1968,40,ACTOR IN A SUPPORTING ROLE,George Kennedy,Cool Hand Luke,cool hand luke,cool hand luke_1967
+144,,,1968,40,ACTRESS,Katharine Hepburn,Guess Who's Coming to Dinner,guess who's coming to dinner,guess who's coming to dinner_1967
+145,,,1968,40,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,Bonnie and Clyde,bonnie and clyde,bonnie and clyde_1967
+146,,,1969,41,ACTOR,Cliff Robertson,Charly,charly,charly_1968
+147,,,1969,41,ACTOR IN A SUPPORTING ROLE,Jack Albertson,The Subject Was Roses,the subject was roses,the subject was roses_1968
+148,,,1969,41,ACTRESS,Barbra Streisand,Funny Girl,funny girl,funny girl_1968
+149,,,1969,41,ACTRESS,Katharine Hepburn,The Lion in Winter,the lion in winter,the lion in winter_1968
+150,,,1969,41,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Rosemary's Baby,rosemary's baby,rosemary's baby_1968
+151,,,1970,42,ACTOR,John Wayne,True Grit,true grit,true grit_1969
+152,,,1970,42,ACTOR IN A SUPPORTING ROLE,Gig Young,"They Shoot Horses, Don't They?","they shoot horses, don't they?","they shoot horses, don't they?_1969"
+153,,,1970,42,ACTRESS,Maggie Smith,The Prime of Miss Jean Brodie,the prime of miss jean brodie,the prime of miss jean brodie_1969
+154,,,1970,42,ACTRESS IN A SUPPORTING ROLE,Goldie Hawn,Cactus Flower,cactus flower,cactus flower_1969
+155,,,1971,43,ACTOR,George C. Scott,Patton,patton,patton_1970
+156,,,1971,43,ACTOR IN A SUPPORTING ROLE,John Mills,Ryan's Daughter,ryan's daughter,ryan's daughter_1970
+157,,,1971,43,ACTRESS,Glenda Jackson,Women in Love,women in love,women in love_1970
+158,,,1971,43,ACTRESS IN A SUPPORTING ROLE,Helen Hayes,Airport,airport,airport_1970
+159,,,1972,44,ACTOR,Gene Hackman,The French Connection,the french connection,the french connection_1971
+160,,,1972,44,ACTOR IN A SUPPORTING ROLE,Ben Johnson,The Last Picture Show,the last picture show,the last picture show_1971
+161,,,1972,44,ACTRESS,Jane Fonda,Klute,klute,klute_1971
+162,,,1972,44,ACTRESS IN A SUPPORTING ROLE,Cloris Leachman,The Last Picture Show,the last picture show,the last picture show_1971
+163,,,1973,45,ACTOR,Marlon Brando,The Godfather,the godfather,the godfather_1972
+164,,,1973,45,ACTOR IN A SUPPORTING ROLE,Joel Grey,Cabaret,cabaret,cabaret_1972
+165,,,1973,45,ACTRESS,Liza Minnelli,Cabaret,cabaret,cabaret_1972
+166,,,1973,45,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,Butterflies Are Free,butterflies are free,butterflies are free_1972
+167,,,1974,46,ACTOR,Jack Lemmon,Save the Tiger,save the tiger,save the tiger_1973
+168,,,1974,46,ACTOR IN A SUPPORTING ROLE,John Houseman,The Paper Chase,the paper chase,the paper chase_1973
+169,,,1974,46,ACTRESS,Glenda Jackson,A Touch of Class,a touch of class,a touch of class_1973
+170,,,1974,46,ACTRESS IN A SUPPORTING ROLE,Tatum O'Neal,Paper Moon,paper moon,paper moon_1973
+171,,,1975,47,ACTOR,Art Carney,Harry and Tonto,harry and tonto,harry and tonto_1974
+172,,,1975,47,ACTOR IN A SUPPORTING ROLE,Robert De Niro,The Godfather Part II,the godfather part ii,the godfather part ii_1974
+173,,,1975,47,ACTRESS,Ellen Burstyn,Alice Doesn't Live Here Anymore,alice doesn't live here anymore,alice doesn't live here anymore_1974
+174,,,1975,47,ACTRESS IN A SUPPORTING ROLE,Ingrid Bergman,Murder on the Orient Express,murder on the orient express,murder on the orient express_1974
+175,,,1976,48,ACTOR,Jack Nicholson,One Flew over the Cuckoo's Nest,one flew over the cuckoo's nest,one flew over the cuckoo's nest_1975
+176,,,1976,48,ACTOR IN A SUPPORTING ROLE,George Burns,The Sunshine Boys,the sunshine boys,the sunshine boys_1975
+177,,,1976,48,ACTRESS,Louise Fletcher,One Flew over the Cuckoo's Nest,one flew over the cuckoo's nest,one flew over the cuckoo's nest_1975
+178,,,1976,48,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Shampoo,shampoo,shampoo_1975
+179,,,1977,49,ACTOR IN A LEADING ROLE,Peter Finch,Network,network,network_1976
+180,,,1977,49,ACTOR IN A SUPPORTING ROLE,Jason Robards,All the President's Men,all the president's men,all the president's men_1976
+181,,,1977,49,ACTRESS IN A LEADING ROLE,Faye Dunaway,Network,network,network_1976
+182,,,1977,49,ACTRESS IN A SUPPORTING ROLE,Beatrice Straight,Network,network,network_1976
+183,,,1978,50,ACTOR IN A LEADING ROLE,Richard Dreyfuss,The Goodbye Girl,the goodbye girl,the goodbye girl_1977
+184,,,1978,50,ACTOR IN A SUPPORTING ROLE,Jason Robards,Julia,julia,julia_1977
+185,,,1978,50,ACTRESS IN A LEADING ROLE,Diane Keaton,Annie Hall,annie hall,annie hall_1977
+186,,,1978,50,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Julia,julia,julia_1977
+187,,,1979,51,ACTOR IN A LEADING ROLE,Jon Voight,Coming Home,coming home,coming home_1978
+188,,,1979,51,ACTOR IN A SUPPORTING ROLE,Christopher Walken,The Deer Hunter,the deer hunter,the deer hunter_1978
+189,,,1979,51,ACTRESS IN A LEADING ROLE,Jane Fonda,Coming Home,coming home,coming home_1978
+190,,,1979,51,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,California Suite,california suite,california suite_1978
+191,,,1980,52,ACTOR IN A LEADING ROLE,Dustin Hoffman,Kramer vs. Kramer,kramer vs kramer,kramer vs kramer_1979
+192,,,1980,52,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Being There,being there,being there_1979
+193,,,1980,52,ACTRESS IN A LEADING ROLE,Sally Field,Norma Rae,norma rae,norma rae_1979
+194,,,1980,52,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Kramer vs. Kramer,kramer vs kramer,kramer vs kramer_1979
+195,,,1981,53,ACTOR IN A LEADING ROLE,Robert De Niro,Raging Bull,raging bull,raging bull_1980
+196,,,1981,53,ACTOR IN A SUPPORTING ROLE,Timothy Hutton,Ordinary People,ordinary people,ordinary people_1980
+197,,,1981,53,ACTRESS IN A LEADING ROLE,Sissy Spacek,Coal Miner's Daughter,coal miner's daughter,coal miner's daughter_1980
+198,,,1981,53,ACTRESS IN A SUPPORTING ROLE,Mary Steenburgen,Melvin and Howard,melvin and howard,melvin and howard_1980
+199,,,1982,54,ACTOR IN A LEADING ROLE,Henry Fonda,On Golden Pond,on golden pond,on golden pond_1981
+200,,,1982,54,ACTOR IN A SUPPORTING ROLE,John Gielgud,Arthur,arthur,arthur_1981
+201,,,1982,54,ACTRESS IN A LEADING ROLE,Katharine Hepburn,On Golden Pond,on golden pond,on golden pond_1981
+202,,,1982,54,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Reds,reds,reds_1981
+203,,,1983,55,ACTOR IN A LEADING ROLE,Ben Kingsley,Gandhi,gandhi,gandhi_1982
+204,,,1983,55,ACTOR IN A SUPPORTING ROLE,"Louis Gossett, Jr.",An Officer and a Gentleman,an officer and a gentleman,an officer and a gentleman_1982
+205,,,1983,55,ACTRESS IN A LEADING ROLE,Meryl Streep,Sophie's Choice,sophie's choice,sophie's choice_1982
+206,,,1983,55,ACTRESS IN A SUPPORTING ROLE,Jessica Lange,Tootsie,tootsie,tootsie_1982
+207,,,1984,56,ACTOR IN A LEADING ROLE,Robert Duvall,Tender Mercies,tender mercies,tender mercies_1983
+208,,,1984,56,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Terms of Endearment,terms of endearment,terms of endearment_1983
+209,,,1984,56,ACTRESS IN A LEADING ROLE,Shirley MacLaine,Terms of Endearment,terms of endearment,terms of endearment_1983
+210,,,1984,56,ACTRESS IN A SUPPORTING ROLE,Linda Hunt,The Year of Living Dangerously,the year of living dangerously,the year of living dangerously_1983
+211,,,1985,57,ACTOR IN A LEADING ROLE,F. Murray Abraham,Amadeus,amadeus,amadeus_1984
+212,,,1985,57,ACTOR IN A SUPPORTING ROLE,Haing S. Ngor,The Killing Fields,the killing fields,the killing fields_1984
+213,,,1985,57,ACTRESS IN A LEADING ROLE,Sally Field,Places in the Heart,places in the heart,places in the heart_1984
+214,,,1985,57,ACTRESS IN A SUPPORTING ROLE,Peggy Ashcroft,A Passage to India,a passage to india,a passage to india_1984
+215,,,1986,58,ACTOR IN A LEADING ROLE,William Hurt,Kiss of the Spider Woman,kiss of the spider woman,kiss of the spider woman_1985
+216,,,1986,58,ACTOR IN A SUPPORTING ROLE,Don Ameche,Cocoon,cocoon,cocoon_1985
+217,,,1986,58,ACTRESS IN A LEADING ROLE,Geraldine Page,The Trip to Bountiful,the trip to bountiful,the trip to bountiful_1985
+218,,,1986,58,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,Prizzi's Honor,prizzi's honor,prizzi's honor_1985
+219,,,1987,59,ACTOR IN A LEADING ROLE,Paul Newman,The Color of Money,the color of money,the color of money_1986
+220,,,1987,59,ACTOR IN A SUPPORTING ROLE,Michael Caine,Hannah and Her Sisters,hannah and her sisters,hannah and her sisters_1986
+221,,,1987,59,ACTRESS IN A LEADING ROLE,Marlee Matlin,Children of a Lesser God,children of a lesser god,children of a lesser god_1986
+222,,,1987,59,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Hannah and Her Sisters,hannah and her sisters,hannah and her sisters_1986
+223,,,1988,60,ACTOR IN A LEADING ROLE,Michael Douglas,Wall Street,wall street,wall street_1987
+224,,,1988,60,ACTOR IN A SUPPORTING ROLE,Sean Connery,The Untouchables,the untouchables,the untouchables_1987
+225,,,1988,60,ACTRESS IN A LEADING ROLE,Cher,Moonstruck,moonstruck,moonstruck_1987
+226,,,1988,60,ACTRESS IN A SUPPORTING ROLE,Olympia Dukakis,Moonstruck,moonstruck,moonstruck_1987
+227,,,1989,61,ACTOR IN A LEADING ROLE,Dustin Hoffman,Rain Man,rain man,rain man_1988
+228,,,1989,61,ACTOR IN A SUPPORTING ROLE,Kevin Kline,A Fish Called Wanda,a fish called wanda,a fish called wanda_1988
+229,,,1989,61,ACTRESS IN A LEADING ROLE,Jodie Foster,The Accused,the accused,the accused_1988
+230,,,1989,61,ACTRESS IN A SUPPORTING ROLE,Geena Davis,The Accidental Tourist,the accidental tourist,the accidental tourist_1988
+231,,,1990,62,ACTOR IN A LEADING ROLE,Daniel Day Lewis,My Left Foot,my left foot,my left foot_1989
+232,,,1990,62,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Glory,glory,glory_1989
+233,,,1990,62,ACTRESS IN A LEADING ROLE,Jessica Tandy,Driving Miss Daisy,driving miss daisy,driving miss daisy_1989
+234,,,1990,62,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot,my left foot,my left foot_1989
+235,,,1991,63,ACTOR IN A LEADING ROLE,Jeremy Irons,Reversal of Fortune,reversal of fortune,reversal of fortune_1990
+236,,,1991,63,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Good Fellas,good fellas,good fellas_1990
+237,,,1991,63,ACTRESS IN A LEADING ROLE,Kathy Bates,Misery,misery,misery_1990
+238,,,1991,63,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,Ghost,ghost,ghost_1990
+239,,,1992,64,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Silence of the Lambs,the silence of the lambs,the silence of the lambs_1991
+240,,,1992,64,ACTOR IN A SUPPORTING ROLE,Jack Palance,City Slickers,city slickers,city slickers_1991
+241,,,1992,64,ACTRESS IN A LEADING ROLE,Jodie Foster,The Silence of the Lambs,the silence of the lambs,the silence of the lambs_1991
+242,,,1992,64,ACTRESS IN A SUPPORTING ROLE,Mercedes Ruehl,The Fisher King,the fisher king,the fisher king_1991
+243,,,1993,65,ACTOR IN A LEADING ROLE,Al Pacino,Scent of a Woman,scent of a woman,scent of a woman_1992
+244,,,1993,65,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Unforgiven,unforgiven,unforgiven_1992
+245,,,1993,65,ACTRESS IN A LEADING ROLE,Emma Thompson,Howards End,howards end,howards end_1992
+246,,,1993,65,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,My Cousin Vinny,my cousin vinny,my cousin vinny_1992
+247,,,1994,66,ACTOR IN A LEADING ROLE,Tom Hanks,Philadelphia,philadelphia,philadelphia_1993
+248,,,1994,66,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,The Fugitive,the fugitive,the fugitive_1993
+249,,,1994,66,ACTRESS IN A LEADING ROLE,Holly Hunter,The Piano,the piano,the piano_1993
+250,,,1994,66,ACTRESS IN A SUPPORTING ROLE,Anna Paquin,The Piano,the piano,the piano_1993
+251,,,1995,67,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump,forrest gump,forrest gump_1994
+252,,,1995,67,ACTOR IN A SUPPORTING ROLE,Martin Landau,Ed Wood,ed wood,ed wood_1994
+253,,,1995,67,ACTRESS IN A LEADING ROLE,Jessica Lange,Blue Sky,blue sky,blue sky_1994
+254,,,1995,67,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Bullets over Broadway,bullets over broadway,bullets over broadway_1994
+255,,,1996,68,ACTOR IN A LEADING ROLE,Nicolas Cage,Leaving Las Vegas,leaving las vegas,leaving las vegas_1995
+256,,,1996,68,ACTOR IN A SUPPORTING ROLE,Kevin Spacey,The Usual Suspects,the usual suspects,the usual suspects_1995
+257,,,1996,68,ACTRESS IN A LEADING ROLE,Susan Sarandon,Dead Man Walking,dead man walking,dead man walking_1995
+258,,,1996,68,ACTRESS IN A SUPPORTING ROLE,Mira Sorvino,Mighty Aphrodite,mighty aphrodite,mighty aphrodite_1995
+259,,,1997,69,ACTOR IN A LEADING ROLE,Geoffrey Rush,Shine,shine,shine_1996
+260,,,1997,69,ACTOR IN A SUPPORTING ROLE,"Cuba Gooding, Jr.",Jerry Maguire,jerry maguire,jerry maguire_1996
+261,,,1997,69,ACTRESS IN A LEADING ROLE,Frances McDormand,Fargo,fargo,fargo_1996
+262,,,1997,69,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient,the english patient,the english patient_1996
+263,,,1998,70,ACTOR IN A LEADING ROLE,Jack Nicholson,As Good as It Gets,as good as it gets,as good as it gets_1997
+264,,,1998,70,ACTOR IN A SUPPORTING ROLE,Robin Williams,Good Will Hunting,good will hunting,good will hunting_1997
+265,,,1998,70,ACTRESS IN A LEADING ROLE,Helen Hunt,As Good as It Gets,as good as it gets,as good as it gets_1997
+266,,,1998,70,ACTRESS IN A SUPPORTING ROLE,Kim Basinger,L.A. Confidential,la confidential,la confidential_1997
+267,,,1999,71,ACTOR IN A LEADING ROLE,Roberto Benigni,Life Is Beautiful,life is beautiful,life is beautiful_1998
+268,,,1999,71,ACTOR IN A SUPPORTING ROLE,James Coburn,Affliction,affliction,affliction_1998
+269,,,1999,71,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,Shakespeare in Love,shakespeare in love,shakespeare in love_1998
+270,,,1999,71,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Shakespeare in Love,shakespeare in love,shakespeare in love_1998
+271,,,2000,72,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,american beauty,american beauty_1999
+272,,,2000,72,ACTOR IN A SUPPORTING ROLE,Michael Caine,The Cider House Rules,the cider house rules,the cider house rules_1999
+273,,,2000,72,ACTRESS IN A LEADING ROLE,Hilary Swank,Boys Don't Cry,boys don't cry,boys don't cry_1999
+274,,,2000,72,ACTRESS IN A SUPPORTING ROLE,Angelina Jolie,"Girl, Interrupted","girl, interrupted","girl, interrupted_1999"
+275,,,2001,73,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,gladiator,gladiator_2000
+276,,,2001,73,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,traffic,traffic_2000
+277,,,2001,73,ACTRESS IN A LEADING ROLE,Julia Roberts,Erin Brockovich,erin brockovich,erin brockovich_2000
+278,,,2001,73,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Pollock,pollock,pollock_2000
+279,,,2002,74,ACTOR IN A LEADING ROLE,Denzel Washington,Training Day,training day,training day_2001
+280,,,2002,74,ACTOR IN A SUPPORTING ROLE,Jim Broadbent,Iris,iris,iris_2001
+281,,,2002,74,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,monster's ball,monster's ball_2001
+282,,,2002,74,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,a beautiful mind,a beautiful mind_2001
+283,,,2003,75,ACTOR IN A LEADING ROLE,Adrien Brody,The Pianist,the pianist,the pianist_2002
+284,,,2003,75,ACTOR IN A SUPPORTING ROLE,Chris Cooper,Adaptation,adaptation,adaptation_2002
+285,,,2003,75,ACTRESS IN A LEADING ROLE,Nicole Kidman,The Hours,the hours,the hours_2002
+286,,,2003,75,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,Chicago,chicago,chicago_2002
+287,,,2004,76,ACTOR IN A LEADING ROLE,Sean Penn,Mystic River,mystic river,mystic river_2003
+288,,,2004,76,ACTOR IN A SUPPORTING ROLE,Tim Robbins,Mystic River,mystic river,mystic river_2003
+289,,,2004,76,ACTRESS IN A LEADING ROLE,Charlize Theron,Monster,monster,monster_2003
+290,,,2004,76,ACTRESS IN A SUPPORTING ROLE,Renée Zellweger,Cold Mountain,cold mountain,cold mountain_2003
+291,,,2005,77,ACTOR IN A LEADING ROLE,Jamie Foxx,Ray,ray,ray_2004
+292,,,2005,77,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Million Dollar Baby,million dollar baby,million dollar baby_2004
+293,,,2005,77,ACTRESS IN A LEADING ROLE,Hilary Swank,Million Dollar Baby,million dollar baby,million dollar baby_2004
+294,,,2005,77,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,The Aviator,the aviator,the aviator_2004
+295,,,2006,78,ACTOR IN A LEADING ROLE,Philip Seymour Hoffman,Capote,capote,capote_2005
+296,,,2006,78,ACTOR IN A SUPPORTING ROLE,George Clooney,Syriana,syriana,syriana_2005
+297,,,2006,78,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Walk the Line,walk the line,walk the line_2005
+298,,,2006,78,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Constant Gardener,the constant gardener,the constant gardener_2005
+299,,,2007,79,ACTOR IN A LEADING ROLE,Forest Whitaker,The Last King of Scotland,the last king of scotland,the last king of scotland_2006
+300,,,2007,79,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Little Miss Sunshine,little miss sunshine,little miss sunshine_2006
+301,,,2007,79,ACTRESS IN A LEADING ROLE,Helen Mirren,The Queen,the queen,the queen_2006
+302,,,2007,79,ACTRESS IN A SUPPORTING ROLE,Jennifer Hudson,Dreamgirls,dreamgirls,dreamgirls_2006
+303,,,2008,80,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,There Will Be Blood,there will be blood,there will be blood_2007
+304,,,2008,80,ACTOR IN A SUPPORTING ROLE,Javier Bardem,No Country for Old Men,no country for old men,no country for old men_2007
+305,,,2008,80,ACTRESS IN A LEADING ROLE,Marion Cotillard,La Vie en Rose,la vie en rose,la vie en rose_2007
+306,,,2008,80,ACTRESS IN A SUPPORTING ROLE,Tilda Swinton,Michael Clayton,michael clayton,michael clayton_2007
+307,,,2009,81,ACTOR IN A LEADING ROLE,Sean Penn,Milk,milk,milk_2008
+308,,,2009,81,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,the dark knight,the dark knight_2008
+309,,,2009,81,ACTRESS IN A LEADING ROLE,Kate Winslet,The Reader,the reader,the reader_2008
+310,,,2009,81,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Vicky Cristina Barcelona,vicky cristina barcelona,vicky cristina barcelona_2008
+311,,,2010,82,ACTOR IN A LEADING ROLE,Jeff Bridges,Crazy Heart,crazy heart,crazy heart_2009
+312,,,2010,82,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Inglourious Basterds,inglourious basterds,inglourious basterds_2009
+313,,,2010,82,ACTRESS IN A LEADING ROLE,Sandra Bullock,The Blind Side,the blind side,the blind side_2009
+314,,,2010,82,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,precious: based on the novel 'push' by sapphire,precious: based on the novel 'push' by sapphire_2009
+315,,,2011,83,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,the king's speech,the king's speech_2010
+316,,,2011,83,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Fighter,the fighter,the fighter_2010
+317,,,2011,83,ACTRESS IN A LEADING ROLE,Natalie Portman,Black Swan,black swan,black swan_2010
+318,,,2011,83,ACTRESS IN A SUPPORTING ROLE,Melissa Leo,The Fighter,the fighter,the fighter_2010
+319,,,2012,84,ACTOR IN A LEADING ROLE,Jean Dujardin,The Artist,the artist,the artist_2011
+320,,,2012,84,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,Beginners,beginners,beginners_2011
+321,,,2012,84,ACTRESS IN A LEADING ROLE,Meryl Streep,The Iron Lady,the iron lady,the iron lady_2011
+322,,,2012,84,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Help,the help,the help_2011
+323,,,2013,85,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Lincoln,lincoln,lincoln_2012
+324,,,2013,85,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,django unchained,django unchained_2012
+325,,,2013,85,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Silver Linings Playbook,silver linings playbook,silver linings playbook_2012
+326,,,2013,85,ACTRESS IN A SUPPORTING ROLE,Anne Hathaway,Les Misérables,les misérables,les misérables_2012
+327,,,2014,86,ACTOR IN A LEADING ROLE,Matthew McConaughey,Dallas Buyers Club,dallas buyers club,dallas buyers club_2013
+328,,,2014,86,ACTOR IN A SUPPORTING ROLE,Jared Leto,Dallas Buyers Club,dallas buyers club,dallas buyers club_2013
+329,,,2014,86,ACTRESS IN A LEADING ROLE,Cate Blanchett,Blue Jasmine,blue jasmine,blue jasmine_2013
+330,,,2014,86,ACTRESS IN A SUPPORTING ROLE,Lupita Nyong'o,12 Years a Slave,12 years a slave,12 years a slave_2013
+331,,,2015,87,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,the theory of everything,the theory of everything_2014
+332,,,2015,87,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,whiplash,whiplash_2014
+333,,,2015,87,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,still alice,still alice_2014
+334,,,2015,87,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,boyhood,boyhood_2014
+335,,,2016,88,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,the revenant,the revenant_2015
+336,,,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,bridge of spies,bridge of spies_2015
+337,,,2016,88,ACTRESS IN A LEADING ROLE,Brie Larson,Room,room,room_2015
+338,,,2016,88,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,the danish girl,the danish girl_2015
+339,,,2017,89,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,manchester by the sea,manchester by the sea_2016
+340,,,2017,89,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,moonlight,moonlight_2016
+341,,,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,la la land,la la land_2016
+342,,,2017,89,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,fences,fences_2016
+343,,,2018,90,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,darkest hour,darkest hour_2017
+344,,,2018,90,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri","three billboards outside ebbing, missouri","three billboards outside ebbing, missouri_2017"
+345,,,2018,90,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri","three billboards outside ebbing, missouri","three billboards outside ebbing, missouri_2017"
+346,,,2018,90,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya","i, tonya","i, tonya_2017"
+347,,,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,bohemian rhapsody,bohemian rhapsody_2018
+348,,,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,green book,green book_2018
+349,,,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,the favourite,the favourite_2018
+350,,,2019,91,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,if beale street could talk,if beale street could talk_2018
+351,,,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,joker,joker_2019
+352,,,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,once upon a timein hollywood,once upon a timein hollywood_2019
+353,,,2020,92,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,judy,judy_2019
+354,,,2020,92,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,marriage story,marriage story_2019
+355,,,2021,93,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Father,the father,the father_2020
+356,,,2021,93,ACTOR IN A SUPPORTING ROLE,Daniel Kaluuya,Judas and the Black Messiah,judas and the black messiah,judas and the black messiah_2020
+357,,,2021,93,ACTRESS IN A LEADING ROLE,Frances McDormand,Nomadland,nomadland,nomadland_2020
+358,,,2021,93,ACTRESS IN A SUPPORTING ROLE,Yuh-Jung Youn,Minari,minari,minari_2020
+359,,,2022,94,ACTOR IN A LEADING ROLE,Will Smith,King Richard,king richard,king richard_2021
+360,,,2022,94,ACTOR IN A SUPPORTING ROLE,Troy Kotsur,CODA,coda,coda_2021
+361,,,2022,94,ACTRESS IN A LEADING ROLE,Jessica Chastain,The Eyes of Tammy Faye,the eyes of tammy faye,the eyes of tammy faye_2021
+362,,,2022,94,ACTRESS IN A SUPPORTING ROLE,Ariana DeBose,West Side Story,west side story,west side story_2021
+363,,,2023,95,ACTOR IN A LEADING ROLE,Brendan Fraser,The Whale,the whale,the whale_2022
+364,,,2023,95,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan,Everything Everywhere All at Once,everything everywhere all at once,everything everywhere all at once_2022
+365,,,2023,95,ACTRESS IN A LEADING ROLE,Michelle Yeoh,Everything Everywhere All at Once,everything everywhere all at once,everything everywhere all at once_2022
+366,,,2023,95,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis,Everything Everywhere All at Once,everything everywhere all at once,everything everywhere all at once_2022
+367,,,2024,96,ACTOR IN A LEADING ROLE,Cillian Murphy,Oppenheimer,oppenheimer,oppenheimer_2023
+368,,,2024,96,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Oppenheimer,oppenheimer,oppenheimer_2023
+369,,,2024,96,ACTRESS IN A LEADING ROLE,Emma Stone,Poor Things,poor things,poor things_2023
+370,,,2024,96,ACTRESS IN A SUPPORTING ROLE,Da'Vine Joy Randolph,The Holdovers,the holdovers,the holdovers_2023
